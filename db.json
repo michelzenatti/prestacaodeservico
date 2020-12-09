@@ -34,7 +34,7 @@
           },
           {
             "key": 5,
-            "img": "image5.jpeg",
+            "img": "image5.jpg",
             "nome": "Lucas Miranda",
             "profissao": "marceneiro",
             "telefone":"(16) 99321-5646",
@@ -42,7 +42,7 @@
           },
           {
             "key": 6,
-            "img": "image6.jpeg",
+            "img": "image6.png",
             "nome": "Alex Rocha",
             "profissao": "engenheiro civil",
             "telefone":"(16) 91913-3072",
@@ -50,33 +50,33 @@
           },
           {
             "key": 7,
-            "img": "image7.jpeg",
+            "img": "image7.jpg",
             "nome": "Fabiano Oliveira",
-            "profissao": "",
+            "profissao": "gesseiro",
             "telefone":"(16) 91866-1333",
             "avaliacao":"4,1"
           },
           {
             "key": 8,
-            "img": "image8.jpeg",
-            "nome": "Jose Pinto",
-            "profissao": "",
+            "img": "image8.jpg",
+            "nome": "Luis Antonio",
+            "profissao": "carpinteiro",
             "telefone":"(16) 95426-5532",
             "avaliacao":"4,0"
           },
           {
             "key": 9,
-            "img": "image9.jpeg",
-            "nome": "",
-            "profissao": "",
+            "img": "image9.jpg",
+            "nome": "Rogério Freitas",
+            "profissao": "soldador",
             "telefone":"(16) 93860-3662",
             "avaliacao":"4,0"
           },
           {
             "key": 10,
-            "img": "image10.jpeg",
-            "nome": "",
-            "profissao": "",
+            "img": "image10.jpg",
+            "nome": "Rodrigo Silva",
+            "profissao": "vidraceiro",
             "telefone":"(16) 96559-3415",
             "avaliacao":"3,5"
           }
