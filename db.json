@@ -3,42 +3,82 @@
         {
             "key": 1,
             "img": "image1.jpeg",
-            "nome": "Rogério lima",
+            "nome": "Rogério Lima",
             "profissao": "pintor",
-            "telefone":"(16) 997483162",
+            "telefone":"(16) 99748-3162",
             "avaliacao":"5"
           },
           {
             "key": 2,
             "img": "image2.jpeg",
-            "nome": "Claudio pereira",
+            "nome": "Claudio Pereira",
             "profissao": "encanador",
-            "telefone":"(16) 996487234",
-            "avaliacao":"4,8"
+            "telefone":"(16) 99648-7234",
+            "avaliacao":"5"
           },
           {
             "key": 3,
             "img": "image3.jpeg",
-            "nome": "Thalles alcantra",
+            "nome": "Thalles Alcantra",
             "profissao": "eletricista",
-            "telefone":"(16) 999753185",
-            "avaliacao":"4,6"
+            "telefone":"(16) 99975-3185",
+            "avaliacao":"4,8"
           },
           {
             "key": 4,
             "img": "image4.jpeg",
-            "nome": "José almeida",
+            "nome": "José Almeida",
             "profissao": "pedreiro",
-            "telefone":"(16) 995784634",
-            "avaliacao":"4,5"
+            "telefone":"(16) 99578-4634",
+            "avaliacao":"4,6"
           },
           {
             "key": 5,
             "img": "image5.jpeg",
-            "nome": "Lucas miranda",
+            "nome": "Lucas Miranda",
             "profissao": "marceneiro",
-            "telefone":"(16) 993215646",
+            "telefone":"(16) 99321-5646",
+            "avaliacao":"4,5"
+          },
+          {
+            "key": 6,
+            "img": "image6.jpeg",
+            "nome": "Alex Rocha",
+            "profissao": "engenheiro civil",
+            "telefone":"(16) 91913-3072",
+            "avaliacao":"4,3"
+          },
+          {
+            "key": 7,
+            "img": "image7.jpeg",
+            "nome": "Fabiano Oliveira",
+            "profissao": "",
+            "telefone":"(16) 91866-1333",
             "avaliacao":"4,1"
+          },
+          {
+            "key": 8,
+            "img": "image8.jpeg",
+            "nome": "Jose Pinto",
+            "profissao": "",
+            "telefone":"(16) 95426-5532",
+            "avaliacao":"4,0"
+          },
+          {
+            "key": 9,
+            "img": "image9.jpeg",
+            "nome": "",
+            "profissao": "",
+            "telefone":"(16) 93860-3662",
+            "avaliacao":"4,0"
+          },
+          {
+            "key": 10,
+            "img": "image10.jpeg",
+            "nome": "",
+            "profissao": "",
+            "telefone":"(16) 96559-3415",
+            "avaliacao":"3,5"
           }
     ] 
 }
