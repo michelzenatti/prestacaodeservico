@@ -2,7 +2,7 @@
     "dados":[
         {
             "key": 1,
-            "img": "image1.jpeg",
+            "img": "Image1.jpeg",
             "nome": "Rogério Lima",
             "profissao": "pintor",
             "telefone":"(16) 99748-3162",
@@ -18,7 +18,7 @@
           },
           {
             "key": 3,
-            "img": "image3.jpeg",
+            "img": "Image3.jpeg",
             "nome": "Thalles Alcantra",
             "profissao": "eletricista",
             "telefone":"(16) 99975-3185",
@@ -26,7 +26,7 @@
           },
           {
             "key": 4,
-            "img": "image4.jpeg",
+            "img": "Image4.jpeg",
             "nome": "José Almeida",
             "profissao": "pedreiro",
             "telefone":"(16) 99578-4634",
