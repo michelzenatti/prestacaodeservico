@@ -4,7 +4,7 @@
             "key": 1,
             "img": "Image1.jpeg",
             "nome": "Rogério Lima",
-            "profissao": "pintor",
+            "profissao": "Pintor",
             "telefone":"(16) 99748-3162",
             "avaliacao":"5"
           },
@@ -12,7 +12,7 @@
             "key": 2,
             "img": "image2.jpeg",
             "nome": "Claudio Pereira",
-            "profissao": "encanador",
+            "profissao": "Encanador",
             "telefone":"(16) 99648-7234",
             "avaliacao":"5"
           },
@@ -20,7 +20,7 @@
             "key": 3,
             "img": "Image3.jpeg",
             "nome": "Thalles Alcantra",
-            "profissao": "eletricista",
+            "profissao": "Eletricista",
             "telefone":"(16) 99975-3185",
             "avaliacao":"4,8"
           },
@@ -28,7 +28,7 @@
             "key": 4,
             "img": "Image4.jpeg",
             "nome": "José Almeida",
-            "profissao": "pedreiro",
+            "profissao": "Pedreiro",
             "telefone":"(16) 99578-4634",
             "avaliacao":"4,6"
           },
@@ -36,7 +36,7 @@
             "key": 5,
             "img": "image5.jpg",
             "nome": "Lucas Miranda",
-            "profissao": "marceneiro",
+            "profissao": "Marceneiro",
             "telefone":"(16) 99321-5646",
             "avaliacao":"4,5"
           },
@@ -44,7 +44,7 @@
             "key": 6,
             "img": "image6.png",
             "nome": "Alex Rocha",
-            "profissao": "engenheiro civil",
+            "profissao": "Engenheiro civil",
             "telefone":"(16) 91913-3072",
             "avaliacao":"4,3"
           },
@@ -52,7 +52,7 @@
             "key": 7,
             "img": "image7.jpg",
             "nome": "Fabiano Oliveira",
-            "profissao": "gesseiro",
+            "profissao": "Gesseiro",
             "telefone":"(16) 91866-1333",
             "avaliacao":"4,1"
           },
@@ -60,7 +60,7 @@
             "key": 8,
             "img": "image8.jpg",
             "nome": "Luis Antonio",
-            "profissao": "carpinteiro",
+            "profissao": "Carpinteiro",
             "telefone":"(16) 95426-5532",
             "avaliacao":"4,0"
           },
@@ -68,7 +68,7 @@
             "key": 9,
             "img": "image9.jpg",
             "nome": "Rogério Freitas",
-            "profissao": "soldador",
+            "profissao": "Soldador",
             "telefone":"(16) 93860-3662",
             "avaliacao":"4,0"
           },
@@ -76,7 +76,7 @@
             "key": 10,
             "img": "image10.jpg",
             "nome": "Rodrigo Silva",
-            "profissao": "vidraceiro",
+            "profissao": "Vidraceiro",
             "telefone":"(16) 96559-3415",
             "avaliacao":"3,5"
           }
